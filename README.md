@@ -6,17 +6,6 @@ This project is an end-to-end Business Intelligence solution developed in Power 
 
 The dashboard transforms raw transactional data into actionable insights through data modeling, DAX calculations, and interactive visualizations.
 
----
-
-## Dashboard Preview
-
-### Executive Overview
-
-![Overview Dashboard](/Images/overview-dashboard.png)
-
-### Transaction Analysis
-
-![Transaction Dashboard](/Images/transactions-dashboard.png)
 
 ---
 
