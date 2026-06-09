@@ -103,16 +103,6 @@ The project aims to answer the following business questions:
 
 ---
 
-## Repository Structure
-
-Finance-Analysis-PowerBI-Dashboard/
-├── Dashboard
-├── Dataset
-├── Images
-└── README.md
-
----
-
 ## Author
 
 Mercy Mwangi
