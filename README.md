@@ -12,11 +12,11 @@ The dashboard transforms raw transactional data into actionable insights through
 
 ### Executive Overview
 
-![Overview Dashboard](Images/overview-dashboard.png)
+![Overview Dashboard](/Images/overview-dashboard.png)
 
 ### Transaction Analysis
 
-![Transaction Dashboard](Images/transactions-dashboard.png)
+![Transaction Dashboard](/Images/transactions-dashboard.png)
 
 ---
 
