@@ -100,7 +100,6 @@ The project aims to answer the following business questions:
 - DAX
 - Power Query
 - Excel/CSV
-- SQL
 
 ---
 
